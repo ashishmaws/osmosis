@@ -1,0 +1,2 @@
+# osmosis
+for devops learning
